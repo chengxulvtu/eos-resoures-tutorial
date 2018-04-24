@@ -12,5 +12,7 @@ eos-resoures-tutorial 是由区块链技术明叔整理的EOS的资源，开发�
 
 # 视频
 
+[EOSIO Dawn 3 Full Dapp Tutorial Series](https://www.youtube.com/playlist?list=PLvpGYhOe8UbsKmsYW98dM1yt1sEbeNqIq)
+
 
 # 开源项目
